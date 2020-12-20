@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+<student name="Иван">
+<university>BSTU</university>
+<age>18</age>
+</student>
+<student name="Мария">
+<university>BSUIR</university>
+<age>20</age>
+</student>
+</students>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfFinalExam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FinalExam>
+    <name>Ksenia</name>
+    <mark>8</mark>
+    <Name>Ksenia</Name>
+    <Mark>8</Mark>
+    <Specialty>DAIVI</Specialty>
+  </FinalExam>
+  <FinalExam>
+    <name>Karina</name>
+    <mark>6</mark>
+    <Name>Karina</Name>
+    <Mark>6</Mark>
+    <Specialty>POIT</Specialty>
+  </FinalExam>
+  <FinalExam>
+    <name>Petr</name>
+    <mark>3</mark>
+    <Name>Petr</Name>
+    <Mark>3</Mark>
+    <Specialty>ISIT</Specialty>
+  </FinalExam>
+</ArrayOfFinalExam>

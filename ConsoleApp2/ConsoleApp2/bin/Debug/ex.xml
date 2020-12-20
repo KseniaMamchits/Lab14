@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FinalExam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Petr</name>
+  <mark>3</mark>
+  <Name>Petr</Name>
+  <Mark>3</Mark>
+  <Specialty>ISIT</Specialty>
+</FinalExam>

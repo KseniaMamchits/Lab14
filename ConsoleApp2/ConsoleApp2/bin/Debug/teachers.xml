@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<teachers>
+  <teacher name="Татьяна Александровна">
+    <university>БГТУ</university>
+    <age>40</age>
+  </teacher>
+  <teacher name="Елизавета Николаевна">
+    <university>БГУИР</university>
+    <age>20</age>
+  </teacher>
+</teachers>
